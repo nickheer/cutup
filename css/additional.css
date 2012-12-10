@@ -1,0 +1,13 @@
+	body{padding: 40px; background: #222; color: #ededed; -webkit-font-smoothing: antialiased;}
+	.brand{font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;}
+	.lowercase{text-transform:lowercase;}
+	.noleftmargin{margin-left: 0px;}
+	.start{text-transform: capitalize;}
+	p:first-letter{text-transform: capitalize;}
+/*	.brand{line-height: 15px;}
+*/	.middlealign{margin: 0 auto;}
+	.punc{margin-left: -0.25em;}
+	p.lead:after{content: '.'; margin-left: -0.25em;}
+	.partB{
+		font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	}
